@@ -9,7 +9,7 @@ Step 2: You need to install an idea to run the application such as IntelliJ IDEA
 
 
 
-Step 3: You download file product.spl and after that you need to set up a SQL Sever in order to load the data
+Step 3: You download file product.spl and after that you need to set up a SQL Sever in order to load the data from product.sql file
 
 
 
